@@ -1,0 +1,2 @@
+The Sales Dashboard offers a snapshot of key metrics like Total Sales, Profit Margin, and Units Sold. It reveals sales trends across time, regions, and products, highlighting top performers and growth gaps. Interactive filters enhance analysis by time, region, and category. Insights suggest focusing on high-margin products and improving underperforming regions. Overall, the dashboard supports fast, data-driven decisions.
+
